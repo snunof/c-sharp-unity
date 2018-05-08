@@ -1,0 +1,7 @@
+Library/*
+obj/*
+ProjectSettings/*
+*.sln
+UnityPackageManager/*
+*.csproj
+Assets/*.meta
