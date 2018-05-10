@@ -5,3 +5,7 @@ ProjectSettings/*
 UnityPackageManager/*
 *.csproj
 Assets/*.meta
+*.vscode
+Assets/Materials/*
+Assets/Textures/*
+*.unity
