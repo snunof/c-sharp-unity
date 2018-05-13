@@ -1,0 +1,12 @@
+Library/*
+obj/*
+ProjectSettings/*
+*.sln
+UnityPackageManager/*
+*.csproj
+Assets/*.meta
+*.vscode
+Assets/Materials/*
+Assets/Textures/*
+*.unity
+Assets/*.prefab
